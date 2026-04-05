@@ -366,13 +366,11 @@ a { color: inherit; }
   .interest-card--gym .interest-img img {
     object-fit: cover;
     object-position: center center;
-    /* aspect-ratio: 4 / 3; */
   }
    
   .interest-card--matcha .interest-img img {
     object-fit: cover;
-    object-position: center center;
-    /* aspect-ratio: 4 / 3; */
+    object-position: 80% center;
   }
 
 /* ══════════════════════════════════════
